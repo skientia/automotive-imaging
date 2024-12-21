@@ -18,11 +18,13 @@ A hub for all things Automotive Imaging related.
 > N/A
 
 > [!TIP]
-> > N/A
+> N/A
 
-> [!IMPORTANT]
-> > N/A
+> [!IMPORTANT] 
+> > texture file format: converting PNG files into an appropriate file formats such as TIFF, EXR and considering mip-mapping if available.
+> > > 3d file format: favoring Alembic (.abc) and USD file formats over inappropriate, poorly optimized and archaic (obsolete) formats, i.e. FBX, OBJ).
+> > > >mesh optimization: optimizing messy 3d files: proper naming convention, group and sub-groups (“parenting”), etc.
 
 ## To-do
-- [x] Initiate porting to Github
-- [ ] N/A
+- [x] Initiate Github repository
+- [ ] Port resources
