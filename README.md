@@ -2,7 +2,18 @@
 
 skientia.co parallel Automotive CGI resources repository.
 
-![Automotive CGI Thumbnail](https://images.squarespace-cdn.com/content/v1/608815d80fda1f2c79e48753/1710886892186-03PXGOX0FP7MX36VLC4C/stratus-octane-studio-lighting-thumbnail.jpg)
+
+## 
+> [!NOTE]
+> > The displayed thumbnail changes depending on the selected light / dark mode.
+> > > This repository does not host asset files unless the license allows it, and instead contains URLs to their respective source pages.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://images.squarespace-cdn.com/content/v1/608815d80fda1f2c79e48753/1710814692893-MSGUP7D35LMUNH7PC88F/stratus-skientia-tail-light-agx.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://images.squarespace-cdn.com/content/v1/608815d80fda1f2c79e48753/1710886892186-03PXGOX0FP7MX36VLC4C/stratus-octane-studio-lighting-thumbnail.jpg">
+  <img alt="Automotive CGI Thumbnail" src="https://images.squarespace-cdn.com/content/v1/608815d80fda1f2c79e48753/1710886892186-03PXGOX0FP7MX36VLC4C/stratus-octane-studio-lighting-thumbnail.jpg">
+</picture>
+
 ## Overview
 
 A hub of resources for all things Automotive Imaging related.
@@ -14,9 +25,6 @@ Including assets, tools and more:
 | `Free Vehicle Models` | self described |
 | `Paid Vehicle Models` | self described |
 | `Asset Parts` | e.g. wheel sets & components |
-
-> [!NOTE]
-> This repository does not host asset files unless the license allows it, and instead contains URLs to their respective source pages.
 
 > [!TIP]
 > readme files / pages can be downloaded for offline consulting or back-up purposes.
