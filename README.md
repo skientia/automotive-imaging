@@ -5,8 +5,8 @@ skientia.co parallel Automotive CGI resources repository.
 
 ## 
 > [!NOTE]
-> > The displayed thumbnail changes depending on the selected light / dark mode.
-> > > This repository does not host asset files unless the license allows it, and instead contains URLs to their respective source pages.
+> 💡 The displayed thumbnail changes depending on the selected light / dark mode.  
+> ⚠️ This repository does not host asset files unless the license allows it, and instead contains URLs to their respective source pages.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://images.squarespace-cdn.com/content/v1/608815d80fda1f2c79e48753/1710814692893-MSGUP7D35LMUNH7PC88F/stratus-skientia-tail-light-agx.jpg">
@@ -30,9 +30,9 @@ Including assets, tools and more:
 > readme files / pages can be downloaded for offline consulting or back-up purposes.
 
 > [!IMPORTANT] 
-> > texture file format: converting PNG files into an appropriate file formats such as TIFF, EXR and considering mip-mapping if available.
-> > > 3d file format: favoring Alembic (.abc) and USD file formats over inappropriate, poorly optimized and archaic (obsolete) formats, i.e. FBX, OBJ).
-> > > >mesh optimization: optimizing messy 3d files: proper naming convention, group and sub-groups (“parenting”), etc.
+> • texture file format: converting PNG files into an appropriate file formats such as TIFF, EXR and considering mip-mapping if available.  
+> • 3d file format: favoring Alembic (.abc) and USD file formats over inappropriate, poorly optimized and archaic (obsolete) formats, i.e. FBX, OBJ).  
+> • mesh optimization: optimizing messy 3d files: proper naming convention, group and sub-groups (“parenting”), etc.  
 
 ## To-do
 - [x] Initiate Github repository
