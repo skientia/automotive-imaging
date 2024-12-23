@@ -1,7 +1,6 @@
-# Automotive Imaging Resource Hub
+# Automotive Visualization | Resource Repository
 
-skientia.co parallel Automotive CGI resources repository.
-
+Automotive-centric computer generated image synthesis "CGI": visualization, advertising, virtual photography.
 
 ## 
 > [!NOTE]
